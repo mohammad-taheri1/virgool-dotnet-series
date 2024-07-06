@@ -1,13 +1,9 @@
----
-title: Virgool Dotnet Series
-last update: '2024-Jul-06'
----
-
 <style>
     * {
         direction: rtl;
     }
 </style>
+
 
 # سری آموزشی دات نت - ویرگول محمد طاهری
 
